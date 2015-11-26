@@ -1,2 +1,5 @@
-body { color: purple }
-body { background-color: #d8da3d }
+h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif;} 
+h2 {font-family: Helvetica, Genava, Arial;}
+
