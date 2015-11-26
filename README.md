@@ -3,6 +3,11 @@
 +<head>
 +    <meta charset="utf-8">
 +    <title>Mon CV</title>
++    <style type="text/css">
+    body { background: #ffe url(http://content.wallpapers-room.com/resolutions/1280x1024/C/Wallpapers-room_com___Celled_Gray_by_murasaki55_1280x1024.jpg') repeat; }
+  </style>
+</head>
+<body>
 +</head>
 +<body>
 +
